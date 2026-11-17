@@ -1,4 +1,4 @@
-# Elio technical assessment: predicting bad reviews at carrier handover
+# Predicting bad reviews at carrier handover
 
 Predicts which Olist orders are likely to get a 1-2 star review, scored when the seller hands the parcel to the carrier, and designs a campaign and experiment around it. Written answers are in `analysis_answers.md` and the client memo in `memo.md`.
 
